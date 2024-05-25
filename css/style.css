@@ -497,9 +497,9 @@ b{
     color: crimson;
     text-align: center;
 }
-.heading-content{
+/* .heading-content{
     margin-left: -239px;
-}
+} */
 .heading-content p{
     text-align: center;
     font-size: 18px;
